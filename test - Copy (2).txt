@@ -1,0 +1,8 @@
+c
+c++
+java
+postman
+sublimetext
+git hub 
+phpmyadmin
+figma
